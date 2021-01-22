@@ -1,0 +1,14 @@
+﻿.rowCart {
+    width: 40em;
+    margin: 2rem 1.75rem auto;
+    align-items: center;
+}
+
+.removeBtn {
+    background-color: transparent !important; 
+    border-color: transparent !important;
+}
+
+.checkoutBtn {
+    width: 100%;
+}

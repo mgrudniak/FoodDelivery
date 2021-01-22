@@ -1,0 +1,22 @@
+﻿.galleryItem {
+	margin-bottom: 1rem;
+	width: 220px;
+}
+
+.galleryImage {
+	object-fit: cover;
+	object-position: center;
+	max-height: 100%;
+	width: 100%;
+	height: 9rem;
+}
+
+.galleryImage:hover {
+	transition: all .3s ease-in-out;
+    transform: scale(1.15);
+	z-index: 100;
+}
+
+.modal {
+	text-align: center;
+}

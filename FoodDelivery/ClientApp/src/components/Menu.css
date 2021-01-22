@@ -1,0 +1,31 @@
+﻿.menuContainer {
+    padding: 0;
+}
+
+#separator {
+    margin: 0.25rem 0.75rem auto;
+}
+
+.dishTypeRow {
+    margin: 3rem 0.75rem auto;
+}
+
+.menuRow {
+    margin: 1.5rem 1.75rem auto;
+    align-items: center;
+}
+
+.dishName {
+    font-size: 1.15em;
+}
+
+.colAlignItems {
+    align-items: center;
+}
+
+.addToCartBtn {
+    font-size: 100%;
+    width: 6.5em;
+    height: 2.5em;
+    white-space: nowrap;
+}

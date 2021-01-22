@@ -1,0 +1,9 @@
+﻿#headerOutline {
+    font-size: 3em;
+    text-shadow: 3px 3px 5px #000, -3px 3px 5px #000, -3px -3px 5px #000, 3px -3px 5px #000;
+}
+
+#paragraphOutline {
+    font-size: 1.4em;
+    text-shadow: 1.4px 1.4px 2.3px #000, -1.4px 1.4px 2.3px #000, -1.4px -1.4px 2.3px #000, 1.4px -1.4px 2.3px #000;
+}
